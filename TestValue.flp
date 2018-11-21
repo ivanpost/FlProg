@@ -1,0 +1,725 @@
+<sixx.object sixx.id="0" sixx.type="MultiProject" sixx.env="Arduino" >
+	<sixx.object sixx.id="1" sixx.name="projects" sixx.type="OrderedCollection" sixx.env="Core" >
+		<sixx.object sixx.id="2" sixx.type="Project" sixx.env="Arduino" >
+			<sixx.object sixx.id="3" sixx.name="positionStore" sixx.type="ProjectPositionStore" sixx.env="Arduino" >
+				<sixx.object sixx.id="4" sixx.name="projectTreeExpandElements" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.type="UndefinedObject" sixx.env="Core" />
+				</sixx.object>
+				<sixx.object sixx.id="5" sixx.name="projectTreeScroolPosition" sixx.type="Point" sixx.env="Core" >0@0</sixx.object>
+				<sixx.object sixx.id="6" sixx.name="basicLibraryExpandElements" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="7" sixx.type="Symbol" sixx.env="Core" >LibraryRoot</sixx.object>
+					<sixx.object sixx.id="8" sixx.type="Symbol" sixx.env="Core" >LibraryGroup-Триггеры</sixx.object>
+					<sixx.object sixx.id="9" sixx.type="Symbol" sixx.env="Core" >LibraryGroup-Таймеры</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.id="10" sixx.name="basicLibraryScroolPosition" sixx.type="Point" sixx.env="Core" >0@0</sixx.object>
+				<sixx.object sixx.name="isCollapseProjectTree" sixx.type="False" sixx.env="Core" />
+				<sixx.object sixx.id="11" sixx.name="projectTreeWidth" sixx.type="SmallInteger" sixx.env="Core" >233</sixx.object>
+				<sixx.object sixx.id="12" sixx.name="schemeScroolPosition" sixx.type="Point" sixx.env="Core" >0@0</sixx.object>
+				<sixx.object sixx.name="isCollapseTagTable" sixx.type="False" sixx.env="Core" />
+				<sixx.object sixx.id="13" sixx.name="projectVariablesSubcanvasHeight" sixx.type="SmallInteger" sixx.env="Core" >315</sixx.object>
+				<sixx.object sixx.name="isCollapseLibraryWidget" sixx.type="False" sixx.env="Core" />
+				<sixx.object sixx.id="14" sixx.name="projectBlockLibrarySubcanvasWidth" sixx.type="SmallInteger" sixx.env="Core" >457</sixx.object>
+				<sixx.object sixx.id="15" sixx.name="tagTableScroolPosition" sixx.type="Point" sixx.env="Core" >0@0</sixx.object>
+				<sixx.object sixx.id="16" sixx.name="tagsTableExpandElements" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="17" sixx.type="Symbol" sixx.env="Core" >root</sixx.object>
+					<sixx.object sixx.id="18" sixx.type="Symbol" sixx.env="Core" >output</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.id="19" sixx.name="selectedLibraryIndex" sixx.type="SmallInteger" sixx.env="Core" >1</sixx.object>
+				<sixx.object sixx.id="20" sixx.name="userLibraryExpandElements" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="21" sixx.type="String" sixx.env="Core" >c75a79fa-7b04-4295-8de5-380892dbc44a</sixx.object>
+					<sixx.object sixx.id="22" sixx.type="Symbol" sixx.env="Core" >LibraryGroup-OLED</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.id="23" sixx.name="userLibraryScroolPosition" sixx.type="Point" sixx.env="Core" >0@0</sixx.object>
+			</sixx.object>
+			<sixx.object sixx.id="24" sixx.name="settings" sixx.type="ProjectSettings" sixx.env="Arduino" >
+				<sixx.object sixx.name="useExternalReferenceVoltage" sixx.type="False" sixx.env="Core" />
+			</sixx.object>
+			<sixx.object sixx.id="25" sixx.name="programmVersionNambeLastPart" sixx.type="SmallInteger" sixx.env="Core" >3</sixx.object>
+			<sixx.object sixx.name="programmVersionNamberFirstPart" sixx.idref="25" />
+			<sixx.object sixx.id="26" sixx.name="programmVersionNamberSecondPart" sixx.type="SmallInteger" sixx.env="Core" >0</sixx.object>
+			<sixx.object sixx.id="27" sixx.name="programm" sixx.type="FBDProgramm" sixx.env="Arduino" >
+				<sixx.object sixx.id="28" sixx.name="networks" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="29" sixx.type="FBDNetWork" sixx.env="Arduino" >
+						<sixx.object sixx.id="30" sixx.name="label" sixx.type="NetworkLabel" sixx.env="Arduino" >
+							<sixx.object sixx.id="31" sixx.name="comment" sixx.type="String" sixx.env="Core" ></sixx.object>
+							<sixx.object sixx.name="name" sixx.idref="31" />
+							<sixx.object sixx.name="isCollapse" sixx.type="False" sixx.env="Core" />
+							<sixx.object sixx.name="isNotCompile" sixx.type="False" sixx.env="Core" />
+							<sixx.object sixx.name="isFulfillmentOfTheCondition" sixx.type="False" sixx.env="Core" />
+							<sixx.object sixx.name="isRunInALoop" sixx.type="False" sixx.env="Core" />
+						</sixx.object>
+						<sixx.object sixx.id="32" sixx.name="blocks" sixx.type="OrderedCollection" sixx.env="Core" >
+							<sixx.object sixx.id="33" sixx.type="FBDGeneratorBlock" sixx.env="Arduino" >
+								<sixx.object sixx.id="34" sixx.name="inseptPoint" sixx.type="Point" sixx.env="Core" >90@60</sixx.object>
+								<sixx.object sixx.id="35" sixx.name="bodyRectangle" sixx.type="Rectangle" sixx.env="Graphics" >120@60 corner: 210@120</sixx.object>
+								<sixx.object sixx.id="36" sixx.name="rectangle" sixx.type="Rectangle" sixx.env="Graphics" >90@60 corner: 240@120</sixx.object>
+								<sixx.object sixx.id="37" sixx.name="labelPaintPoint" sixx.type="Point" sixx.env="Core" >151.0d@78.5d</sixx.object>
+								<sixx.object sixx.id="38" sixx.name="inputOutputsAndConnectionsPoints" sixx.type="OrderedCollection" sixx.env="Core" >
+									<sixx.object sixx.id="39" sixx.type="Association" sixx.env="Core" >
+										<sixx.object sixx.id="40" sixx.name="key" sixx.type="FBDInputOutput" sixx.env="Arduino" >
+											<sixx.object sixx.name="block" sixx.idref="33" />
+											<sixx.object sixx.id="41" sixx.name="type" sixx.type="BooleanDataType" sixx.env="Arduino" >
+											</sixx.object>
+											<sixx.object sixx.name="isInput" sixx.type="True" sixx.env="Core" />
+											<sixx.object sixx.id="42" sixx.name="name" sixx.type="String" sixx.env="Core" >EN</sixx.object>
+											<sixx.object sixx.id="43" sixx.name="constant" sixx.type="Constant" sixx.env="Arduino" >
+												<sixx.object sixx.name="type" sixx.idref="41" />
+												<sixx.object sixx.name="value" sixx.type="True" sixx.env="Core" />
+											</sixx.object>
+											<sixx.object sixx.id="44" sixx.name="startPoint" sixx.type="Point" sixx.env="Core" >90@105</sixx.object>
+											<sixx.object sixx.id="45" sixx.name="stopPoint" sixx.type="Point" sixx.env="Core" >120@105</sixx.object>
+											<sixx.object sixx.id="46" sixx.name="constantInseptPoint" sixx.type="Point" sixx.env="Core" >70.0d@108.5d</sixx.object>
+											<sixx.object sixx.name="isNot" sixx.type="False" sixx.env="Core" />
+										</sixx.object>
+										<sixx.object sixx.name="value" sixx.idref="44" />
+									</sixx.object>
+									<sixx.object sixx.id="47" sixx.type="Association" sixx.env="Core" >
+										<sixx.object sixx.id="48" sixx.name="key" sixx.type="FBDInputOutput" sixx.env="Arduino" >
+											<sixx.object sixx.name="block" sixx.idref="33" />
+											<sixx.object sixx.id="49" sixx.name="connection" sixx.type="FBDConnection" sixx.env="Arduino" >
+												<sixx.object sixx.id="50" sixx.name="inputsOutputs" sixx.type="OrderedCollection" sixx.env="Core" >
+													<sixx.object sixx.idref="48" />
+													<sixx.object sixx.id="51" sixx.type="FBDInputOutput" sixx.env="Arduino" >
+														<sixx.object sixx.id="52" sixx.name="block" sixx.type="FBDSwitchBlock" sixx.env="Arduino" >
+															<sixx.object sixx.id="53" sixx.name="inseptPoint" sixx.type="Point" sixx.env="Core" >390@0</sixx.object>
+															<sixx.object sixx.id="54" sixx.name="bodyRectangle" sixx.type="Rectangle" sixx.env="Graphics" >420@0 corner: 510@120</sixx.object>
+															<sixx.object sixx.id="55" sixx.name="rectangle" sixx.type="Rectangle" sixx.env="Graphics" >390@0 corner: 540@120</sixx.object>
+															<sixx.object sixx.id="56" sixx.name="labelPaintPoint" sixx.type="Point" sixx.env="Core" >449.0d@18.5d</sixx.object>
+															<sixx.object sixx.id="57" sixx.name="inputsOutputsAndActiveZoneRectangles" sixx.type="OrderedCollection" sixx.env="Core" >
+																<sixx.object sixx.id="58" sixx.type="Association" sixx.env="Core" >
+																	<sixx.object sixx.id="59" sixx.name="key" sixx.type="FBDInputOutput" sixx.env="Arduino" >
+																		<sixx.object sixx.name="block" sixx.idref="52" />
+																		<sixx.object sixx.id="60" sixx.name="type" sixx.type="VariableDataType" sixx.env="Arduino" >
+																		</sixx.object>
+																		<sixx.object sixx.name="isInput" sixx.type="True" sixx.env="Core" />
+																		<sixx.object sixx.id="61" sixx.name="name" sixx.type="String" sixx.env="Core" >0</sixx.object>
+																		<sixx.object sixx.id="62" sixx.name="constant" sixx.type="Constant" sixx.env="Arduino" >
+																			<sixx.object sixx.id="63" sixx.name="type" sixx.type="IntegerDataType" sixx.env="Arduino" >
+																			</sixx.object>
+																			<sixx.object sixx.id="64" sixx.name="value" sixx.type="SmallInteger" sixx.env="Core" >20</sixx.object>
+																		</sixx.object>
+																		<sixx.object sixx.id="65" sixx.name="startPoint" sixx.type="Point" sixx.env="Core" >390@45</sixx.object>
+																		<sixx.object sixx.id="66" sixx.name="stopPoint" sixx.type="Point" sixx.env="Core" >420@45</sixx.object>
+																		<sixx.object sixx.id="67" sixx.name="constantInseptPoint" sixx.type="Point" sixx.env="Core" >376.0d@48.5d</sixx.object>
+																		<sixx.object sixx.name="isNot" sixx.type="False" sixx.env="Core" />
+																	</sixx.object>
+																	<sixx.object sixx.id="68" sixx.name="value" sixx.type="Rectangle" sixx.env="Graphics" >390@30 corner: 420@60</sixx.object>
+																</sixx.object>
+																<sixx.object sixx.id="69" sixx.type="Association" sixx.env="Core" >
+																	<sixx.object sixx.id="70" sixx.name="key" sixx.type="FBDInputOutput" sixx.env="Arduino" >
+																		<sixx.object sixx.name="block" sixx.idref="52" />
+																		<sixx.object sixx.name="type" sixx.idref="60" />
+																		<sixx.object sixx.name="isInput" sixx.type="True" sixx.env="Core" />
+																		<sixx.object sixx.id="71" sixx.name="name" sixx.type="String" sixx.env="Core" >1</sixx.object>
+																		<sixx.object sixx.id="72" sixx.name="constant" sixx.type="Constant" sixx.env="Arduino" >
+																			<sixx.object sixx.name="type" sixx.idref="63" />
+																			<sixx.object sixx.id="73" sixx.name="value" sixx.type="SmallInteger" sixx.env="Core" >180</sixx.object>
+																		</sixx.object>
+																		<sixx.object sixx.id="74" sixx.name="startPoint" sixx.type="Point" sixx.env="Core" >390@75</sixx.object>
+																		<sixx.object sixx.id="75" sixx.name="stopPoint" sixx.type="Point" sixx.env="Core" >420@75</sixx.object>
+																		<sixx.object sixx.id="76" sixx.name="constantInseptPoint" sixx.type="Point" sixx.env="Core" >371.0d@78.5d</sixx.object>
+																		<sixx.object sixx.name="isNot" sixx.type="False" sixx.env="Core" />
+																	</sixx.object>
+																	<sixx.object sixx.id="77" sixx.name="value" sixx.type="Rectangle" sixx.env="Graphics" >390@60 corner: 420@90</sixx.object>
+																</sixx.object>
+																<sixx.object sixx.id="78" sixx.type="Association" sixx.env="Core" >
+																	<sixx.object sixx.name="key" sixx.idref="51" />
+																	<sixx.object sixx.id="79" sixx.name="value" sixx.type="Rectangle" sixx.env="Graphics" >390@90 corner: 420@120</sixx.object>
+																</sixx.object>
+																<sixx.object sixx.id="80" sixx.type="Association" sixx.env="Core" >
+																	<sixx.object sixx.id="81" sixx.name="key" sixx.type="FBDInputOutput" sixx.env="Arduino" >
+																		<sixx.object sixx.name="block" sixx.idref="52" />
+																		<sixx.object sixx.id="82" sixx.name="connection" sixx.type="FBDConnection" sixx.env="Arduino" >
+																			<sixx.object sixx.id="83" sixx.name="inputsOutputs" sixx.type="OrderedCollection" sixx.env="Core" >
+																				<sixx.object sixx.idref="81" />
+																				<sixx.object sixx.id="84" sixx.type="FBDInputOutput" sixx.env="Arduino" >
+																					<sixx.object sixx.id="85" sixx.name="block" sixx.type="TagBlock" sixx.env="Arduino" >
+																						<sixx.object sixx.id="86" sixx.name="inseptPoint" sixx.type="Point" sixx.env="Core" >585@90</sixx.object>
+																						<sixx.object sixx.id="87" sixx.name="bodyRectangle" sixx.type="Rectangle" sixx.env="Graphics" >615@90 corner: 657.0d@120</sixx.object>
+																						<sixx.object sixx.id="88" sixx.name="rectangle" sixx.type="Rectangle" sixx.env="Graphics" >585@90 corner: 687.0d@120</sixx.object>
+																						<sixx.object sixx.id="89" sixx.name="labelPaintPoint" sixx.type="Point" sixx.env="Core" >619@108.5d</sixx.object>
+																						<sixx.object sixx.id="90" sixx.name="inputsOutputsAndActiveZoneRectangles" sixx.type="OrderedCollection" sixx.env="Core" >
+																							<sixx.object sixx.id="91" sixx.type="Association" sixx.env="Core" >
+																								<sixx.object sixx.name="key" sixx.idref="84" />
+																								<sixx.object sixx.id="92" sixx.name="value" sixx.type="Rectangle" sixx.env="Graphics" >585@90 corner: 615@120</sixx.object>
+																							</sixx.object>
+																						</sixx.object>
+																						<sixx.object sixx.id="93" sixx.name="inputOutputsAndConnectionsPoints" sixx.type="OrderedCollection" sixx.env="Core" >
+																							<sixx.object sixx.id="94" sixx.type="Association" sixx.env="Core" >
+																								<sixx.object sixx.name="key" sixx.idref="84" />
+																								<sixx.object sixx.id="95" sixx.name="value" sixx.type="Point" sixx.env="Core" >585@105</sixx.object>
+																							</sixx.object>
+																						</sixx.object>
+																						<sixx.object sixx.name="bitNumber" sixx.idref="19" />
+																						<sixx.object sixx.id="96" sixx.name="tag" sixx.type="FBDOutputTag" sixx.env="Arduino" >
+																							<sixx.object sixx.name="comment" sixx.idref="31" />
+																							<sixx.object sixx.name="isGlobal" sixx.type="True" sixx.env="Core" />
+																							<sixx.object sixx.id="97" sixx.name="name" sixx.type="String" sixx.env="Core" >Valve1</sixx.object>
+																							<sixx.object sixx.id="98" sixx.name="type" sixx.type="OutputShimType" sixx.env="Arduino" >
+																							</sixx.object>
+																							<sixx.object sixx.name="bitNumber" sixx.idref="19" />
+																							<sixx.object sixx.id="99" sixx.name="pinNumber" sixx.type="SmallInteger" sixx.env="Core" >6</sixx.object>
+																						</sixx.object>
+																						<sixx.object sixx.id="100" sixx.name="textWidth" sixx.type="Double" sixx.env="Core" >34.0d</sixx.object>
+																						<sixx.object sixx.id="101" sixx.name="textHeight" sixx.type="Double" sixx.env="Core" >7.0d</sixx.object>
+																						<sixx.object sixx.name="input" sixx.idref="84" />
+																					</sixx.object>
+																					<sixx.object sixx.name="connection" sixx.idref="82" />
+																					<sixx.object sixx.name="type" sixx.idref="63" />
+																					<sixx.object sixx.name="isInput" sixx.type="True" sixx.env="Core" />
+																					<sixx.object sixx.name="name" sixx.idref="31" />
+																					<sixx.object sixx.name="startPoint" sixx.idref="95" />
+																					<sixx.object sixx.id="102" sixx.name="stopPoint" sixx.type="Point" sixx.env="Core" >615@105</sixx.object>
+																					<sixx.object sixx.name="isNot" sixx.type="False" sixx.env="Core" />
+																				</sixx.object>
+																			</sixx.object>
+																			<sixx.object sixx.id="103" sixx.name="rectangle" sixx.type="Rectangle" sixx.env="Graphics" >540@105 corner: 540@105</sixx.object>
+																			<sixx.object sixx.name="type" sixx.idref="63" />
+																		</sixx.object>
+																		<sixx.object sixx.name="type" sixx.idref="60" />
+																		<sixx.object sixx.name="isInput" sixx.type="False" sixx.env="Core" />
+																		<sixx.object sixx.id="104" sixx.name="name" sixx.type="String" sixx.env="Core" >Q</sixx.object>
+																		<sixx.object sixx.id="105" sixx.name="nameWidth" sixx.type="Double" sixx.env="Core" >9.0d</sixx.object>
+																		<sixx.object sixx.id="106" sixx.name="startPoint" sixx.type="Point" sixx.env="Core" >510@105</sixx.object>
+																		<sixx.object sixx.id="107" sixx.name="stopPoint" sixx.type="Point" sixx.env="Core" >540@105</sixx.object>
+																		<sixx.object sixx.name="isNot" sixx.type="False" sixx.env="Core" />
+																	</sixx.object>
+																	<sixx.object sixx.id="108" sixx.name="value" sixx.type="Rectangle" sixx.env="Graphics" >510@90 corner: 540@120</sixx.object>
+																</sixx.object>
+															</sixx.object>
+															<sixx.object sixx.id="109" sixx.name="inputOutputsAndConnectionsPoints" sixx.type="OrderedCollection" sixx.env="Core" >
+																<sixx.object sixx.id="110" sixx.type="Association" sixx.env="Core" >
+																	<sixx.object sixx.name="key" sixx.idref="59" />
+																	<sixx.object sixx.name="value" sixx.idref="65" />
+																</sixx.object>
+																<sixx.object sixx.id="111" sixx.type="Association" sixx.env="Core" >
+																	<sixx.object sixx.name="key" sixx.idref="70" />
+																	<sixx.object sixx.name="value" sixx.idref="74" />
+																</sixx.object>
+																<sixx.object sixx.id="112" sixx.type="Association" sixx.env="Core" >
+																	<sixx.object sixx.name="key" sixx.idref="51" />
+																	<sixx.object sixx.id="113" sixx.name="value" sixx.type="Point" sixx.env="Core" >390@105</sixx.object>
+																</sixx.object>
+																<sixx.object sixx.id="114" sixx.type="Association" sixx.env="Core" >
+																	<sixx.object sixx.name="key" sixx.idref="81" />
+																	<sixx.object sixx.name="value" sixx.idref="107" />
+																</sixx.object>
+															</sixx.object>
+															<sixx.object sixx.name="bitNumber" sixx.idref="19" />
+															<sixx.object sixx.id="115" sixx.name="type" sixx.type="SingleSwithBlockType" sixx.env="Arduino" >
+															</sixx.object>
+															<sixx.object sixx.id="116" sixx.name="outputs" sixx.type="OrderedCollection" sixx.env="Core" >
+																<sixx.object sixx.idref="81" />
+															</sixx.object>
+															<sixx.object sixx.id="117" sixx.name="inputs" sixx.type="OrderedCollection" sixx.env="Core" >
+																<sixx.object sixx.idref="59" />
+																<sixx.object sixx.idref="70" />
+																<sixx.object sixx.idref="51" />
+															</sixx.object>
+														</sixx.object>
+														<sixx.object sixx.name="connection" sixx.idref="49" />
+														<sixx.object sixx.name="type" sixx.idref="41" />
+														<sixx.object sixx.name="isInput" sixx.type="True" sixx.env="Core" />
+														<sixx.object sixx.id="118" sixx.name="name" sixx.type="String" sixx.env="Core" >S</sixx.object>
+														<sixx.object sixx.name="startPoint" sixx.idref="113" />
+														<sixx.object sixx.id="119" sixx.name="stopPoint" sixx.type="Point" sixx.env="Core" >420@105</sixx.object>
+														<sixx.object sixx.name="isNot" sixx.type="False" sixx.env="Core" />
+													</sixx.object>
+													<sixx.object sixx.id="120" sixx.type="FBDInputOutput" sixx.env="Arduino" >
+														<sixx.object sixx.id="121" sixx.name="block" sixx.type="TagBlock" sixx.env="Arduino" >
+															<sixx.object sixx.id="122" sixx.name="inseptPoint" sixx.type="Point" sixx.env="Core" >270@165</sixx.object>
+															<sixx.object sixx.id="123" sixx.name="bodyRectangle" sixx.type="Rectangle" sixx.env="Graphics" >300@165 corner: 336.0d@195</sixx.object>
+															<sixx.object sixx.id="124" sixx.name="rectangle" sixx.type="Rectangle" sixx.env="Graphics" >270@165 corner: 366.0d@195</sixx.object>
+															<sixx.object sixx.id="125" sixx.name="labelPaintPoint" sixx.type="Point" sixx.env="Core" >304@183.5d</sixx.object>
+															<sixx.object sixx.id="126" sixx.name="inputOutputsAndConnectionsPoints" sixx.type="OrderedCollection" sixx.env="Core" >
+																<sixx.object sixx.id="127" sixx.type="Association" sixx.env="Core" >
+																	<sixx.object sixx.name="key" sixx.idref="120" />
+																	<sixx.object sixx.id="128" sixx.name="value" sixx.type="Point" sixx.env="Core" >270@180</sixx.object>
+																</sixx.object>
+															</sixx.object>
+															<sixx.object sixx.name="bitNumber" sixx.idref="19" />
+															<sixx.object sixx.id="129" sixx.name="tag" sixx.type="FBDOutputTag" sixx.env="Arduino" >
+																<sixx.object sixx.name="comment" sixx.idref="31" />
+																<sixx.object sixx.name="isGlobal" sixx.type="True" sixx.env="Core" />
+																<sixx.object sixx.id="130" sixx.name="name" sixx.type="String" sixx.env="Core" >led13</sixx.object>
+																<sixx.object sixx.id="131" sixx.name="type" sixx.type="InputOutputDigitalType" sixx.env="Arduino" >
+																</sixx.object>
+																<sixx.object sixx.id="132" sixx.name="bitNumber" sixx.type="SmallInteger" sixx.env="Core" >2</sixx.object>
+																<sixx.object sixx.id="133" sixx.name="pinNumber" sixx.type="SmallInteger" sixx.env="Core" >5</sixx.object>
+															</sixx.object>
+															<sixx.object sixx.id="134" sixx.name="textWidth" sixx.type="Double" sixx.env="Core" >28.0d</sixx.object>
+															<sixx.object sixx.id="135" sixx.name="textHeight" sixx.type="Double" sixx.env="Core" >7.0d</sixx.object>
+															<sixx.object sixx.name="input" sixx.idref="120" />
+														</sixx.object>
+														<sixx.object sixx.name="connection" sixx.idref="49" />
+														<sixx.object sixx.name="type" sixx.idref="41" />
+														<sixx.object sixx.name="isInput" sixx.type="True" sixx.env="Core" />
+														<sixx.object sixx.name="name" sixx.idref="31" />
+														<sixx.object sixx.name="startPoint" sixx.idref="128" />
+														<sixx.object sixx.id="136" sixx.name="stopPoint" sixx.type="Point" sixx.env="Core" >300@180</sixx.object>
+														<sixx.object sixx.name="isNot" sixx.type="False" sixx.env="Core" />
+													</sixx.object>
+												</sixx.object>
+												<sixx.object sixx.id="137" sixx.name="rectangle" sixx.type="Rectangle" sixx.env="Graphics" >240@105 corner: 240@180</sixx.object>
+												<sixx.object sixx.name="type" sixx.idref="41" />
+											</sixx.object>
+											<sixx.object sixx.name="type" sixx.idref="41" />
+											<sixx.object sixx.name="isInput" sixx.type="False" sixx.env="Core" />
+											<sixx.object sixx.id="138" sixx.name="name" sixx.type="String" sixx.env="Core" >Q</sixx.object>
+											<sixx.object sixx.id="139" sixx.name="nameWidth" sixx.type="Double" sixx.env="Core" >9.0d</sixx.object>
+											<sixx.object sixx.id="140" sixx.name="startPoint" sixx.type="Point" sixx.env="Core" >210@105</sixx.object>
+											<sixx.object sixx.id="141" sixx.name="stopPoint" sixx.type="Point" sixx.env="Core" >240@105</sixx.object>
+											<sixx.object sixx.name="isNot" sixx.type="False" sixx.env="Core" />
+										</sixx.object>
+										<sixx.object sixx.name="value" sixx.idref="141" />
+									</sixx.object>
+								</sixx.object>
+								<sixx.object sixx.name="bitNumber" sixx.idref="19" />
+								<sixx.object sixx.id="142" sixx.name="type" sixx.type="GeneratorBlockType" sixx.env="Arduino" >
+								</sixx.object>
+								<sixx.object sixx.id="143" sixx.name="outputs" sixx.type="OrderedCollection" sixx.env="Core" >
+									<sixx.object sixx.idref="48" />
+								</sixx.object>
+								<sixx.object sixx.id="144" sixx.name="genType" sixx.type="Symbol" sixx.env="Core" >simetricMulti</sixx.object>
+								<sixx.object sixx.id="145" sixx.name="onConstant" sixx.type="TimeConstantOrExternal" sixx.env="Arduino" >
+									<sixx.object sixx.name="isConstant" sixx.type="True" sixx.env="Core" />
+									<sixx.object sixx.name="constantTypeIsMilli" sixx.type="True" sixx.env="Core" />
+									<sixx.object sixx.id="146" sixx.name="value" sixx.type="SmallInteger" sixx.env="Core" >1000</sixx.object>
+									<sixx.object sixx.name="valueInputTimeMillisType" sixx.type="True" sixx.env="Core" />
+									<sixx.object sixx.name="valueTypeIsMicros" sixx.type="False" sixx.env="Core" />
+									<sixx.object sixx.name="valueTypeIsMinute" sixx.type="False" sixx.env="Core" />
+								</sixx.object>
+								<sixx.object sixx.id="147" sixx.name="offConstant" sixx.type="TimeConstantOrExternal" sixx.env="Arduino" >
+									<sixx.object sixx.name="isConstant" sixx.type="True" sixx.env="Core" />
+									<sixx.object sixx.name="constantTypeIsMilli" sixx.type="True" sixx.env="Core" />
+									<sixx.object sixx.name="value" sixx.idref="26" />
+								</sixx.object>
+								<sixx.object sixx.name="digitalInput" sixx.idref="40" />
+							</sixx.object>
+							<sixx.object sixx.idref="52" />
+							<sixx.object sixx.idref="85" />
+							<sixx.object sixx.idref="121" />
+						</sixx.object>
+						<sixx.object sixx.id="148" sixx.name="height" sixx.type="SmallInteger" sixx.env="Core" >285</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="149" sixx.type="FBDNetWork" sixx.env="Arduino" >
+						<sixx.object sixx.id="150" sixx.name="label" sixx.type="NetworkLabel" sixx.env="Arduino" >
+							<sixx.object sixx.id="151" sixx.name="comment" sixx.type="String" sixx.env="Core" ></sixx.object>
+							<sixx.object sixx.id="152" sixx.name="name" sixx.type="String" sixx.env="Core" ></sixx.object>
+							<sixx.object sixx.name="isCollapse" sixx.type="False" sixx.env="Core" />
+							<sixx.object sixx.name="isNotCompile" sixx.type="False" sixx.env="Core" />
+							<sixx.object sixx.name="isFulfillmentOfTheCondition" sixx.type="False" sixx.env="Core" />
+							<sixx.object sixx.name="isRunInALoop" sixx.type="False" sixx.env="Core" />
+						</sixx.object>
+						<sixx.object sixx.id="153" sixx.name="blocks" sixx.type="OrderedCollection" sixx.env="Core" >
+							<sixx.object sixx.id="154" sixx.type="DisplayOnChipHD44780Block" sixx.env="Arduino" >
+								<sixx.object sixx.id="155" sixx.name="inseptPoint" sixx.type="Point" sixx.env="Core" >210@15</sixx.object>
+								<sixx.object sixx.id="156" sixx.name="bodyRectangle" sixx.type="Rectangle" sixx.env="Graphics" >240@15 corner: 360@75</sixx.object>
+								<sixx.object sixx.id="157" sixx.name="rectangle" sixx.type="Rectangle" sixx.env="Graphics" >210@15 corner: 390@75</sixx.object>
+								<sixx.object sixx.id="158" sixx.name="labelPaintPoint" sixx.type="Point" sixx.env="Core" >287.5d@33.5d</sixx.object>
+								<sixx.object sixx.name="bitNumber" sixx.idref="19" />
+								<sixx.object sixx.id="159" sixx.name="display" sixx.type="DisplayOnChipHD44780" sixx.env="Arduino" >
+									<sixx.object sixx.name="number" sixx.idref="19" />
+									<sixx.object sixx.id="160" sixx.name="comment" sixx.type="String" sixx.env="Core" ></sixx.object>
+									<sixx.object sixx.name="rowCount" sixx.idref="132" />
+									<sixx.object sixx.id="161" sixx.name="colCount" sixx.type="SmallInteger" sixx.env="Core" >16</sixx.object>
+									<sixx.object sixx.name="isI2C" sixx.type="True" sixx.env="Core" />
+									<sixx.object sixx.id="162" sixx.name="addres" sixx.type="String" sixx.env="Core" >27</sixx.object>
+								</sixx.object>
+								<sixx.object sixx.id="163" sixx.name="enableInput" sixx.type="UniversalInputOutput" sixx.env="Arduino" >
+									<sixx.object sixx.name="block" sixx.idref="154" />
+									<sixx.object sixx.name="type" sixx.idref="41" />
+									<sixx.object sixx.name="isInput" sixx.type="True" sixx.env="Core" />
+									<sixx.object sixx.id="164" sixx.name="name" sixx.type="String" sixx.env="Core" >EN</sixx.object>
+									<sixx.object sixx.id="165" sixx.name="constant" sixx.type="Constant" sixx.env="Arduino" >
+										<sixx.object sixx.name="type" sixx.idref="41" />
+										<sixx.object sixx.name="value" sixx.type="True" sixx.env="Core" />
+									</sixx.object>
+									<sixx.object sixx.id="166" sixx.name="startPoint" sixx.type="Point" sixx.env="Core" >210@60</sixx.object>
+									<sixx.object sixx.id="167" sixx.name="stopPoint" sixx.type="Point" sixx.env="Core" >240@60</sixx.object>
+									<sixx.object sixx.id="168" sixx.name="constantInseptPoint" sixx.type="Point" sixx.env="Core" >190.0d@63.5d</sixx.object>
+									<sixx.object sixx.name="isNot" sixx.type="False" sixx.env="Core" />
+								</sixx.object>
+								<sixx.object sixx.id="169" sixx.name="constant" sixx.type="String" sixx.env="Core" >12345</sixx.object>
+								<sixx.object sixx.name="colNamber" sixx.idref="132" />
+								<sixx.object sixx.name="rowNumber" sixx.idref="19" />
+								<sixx.object sixx.name="isCenter" sixx.type="False" sixx.env="Core" />
+							</sixx.object>
+						</sixx.object>
+						<sixx.object sixx.id="170" sixx.name="height" sixx.type="SmallInteger" sixx.env="Core" >240</sixx.object>
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.name="project" sixx.idref="2" />
+				<sixx.object sixx.id="171" sixx.name="networksAndIntervals" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="172" sixx.type="Association" sixx.env="Core" >
+						<sixx.object sixx.name="key" sixx.idref="29" />
+						<sixx.object sixx.id="173" sixx.name="value" sixx.type="Interval" sixx.env="Core" >(0 to: 285)</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="174" sixx.type="Association" sixx.env="Core" >
+						<sixx.object sixx.name="key" sixx.idref="149" />
+						<sixx.object sixx.id="175" sixx.name="value" sixx.type="Interval" sixx.env="Core" >(285 to: 525)</sixx.object>
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.id="176" sixx.name="variables" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+			</sixx.object>
+			<sixx.object sixx.id="177" sixx.name="inputs" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+			<sixx.object sixx.id="178" sixx.name="outputs" sixx.type="OrderedCollection" sixx.env="Core" >
+				<sixx.object sixx.idref="96" />
+				<sixx.object sixx.idref="129" />
+			</sixx.object>
+			<sixx.object sixx.id="179" sixx.name="globalVariable" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+			<sixx.object sixx.name="isFBD" sixx.type="True" sixx.env="Core" />
+			<sixx.object sixx.id="180" sixx.name="controllerDescription" sixx.type="ArduinoDescriptor" sixx.env="Arduino" >
+				<sixx.object sixx.id="181" sixx.name="name" sixx.type="String" sixx.env="Core" >Arduino Pro Mini &#40;ATmega328&#44; 5V&#44; 16MHz&#41;</sixx.object>
+				<sixx.object sixx.id="182" sixx.name="pins" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="183" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="26" />
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="False" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="184" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="19" />
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="False" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="185" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="132" />
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="186" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="25" />
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="187" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="188" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >4</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="189" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="133" />
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="190" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="99" />
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="191" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="192" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >7</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="193" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="194" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >8</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="195" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="196" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >9</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="197" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="198" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >10</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="199" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="200" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >11</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="201" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="202" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >12</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="203" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="204" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >13</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="205" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="26" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="206" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >14</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="207" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="19" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="208" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >15</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="209" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="132" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="numberAsDigital" sixx.idref="161" />
+					</sixx.object>
+					<sixx.object sixx.id="210" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="25" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="211" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >17</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="212" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="188" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="213" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >18</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="214" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="133" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="215" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >19</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="216" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="99" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="numberAsDigital" sixx.idref="64" />
+					</sixx.object>
+					<sixx.object sixx.id="217" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="192" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="218" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >21</sixx.object>
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.id="219" sixx.name="textInfo" sixx.type="Text" sixx.env="Core" >
+					<sixx.object sixx.id="220" sixx.name="string" sixx.type="String" sixx.env="Core" >		Общие сведения
+
+	Arduino Pro Mini построена на микроконтроллере ATmega168 &#40;техническое описание&#41;. Платформа содержит 14 цифровых входов и выходов &#40;6 из которых могут использоваться как выходы ШИМ&#41;&#44; 6 аналоговых входов&#44; резонатор&#44; кнопку перезагрузки и отверстия для монтажа выводов. Блок из шести выводов может подключаться к кабелю FTDI или плате-конвертеру Sparkfun для обеспечения питания и связи через USB.  
+	Arduino Pro Mini предназначена для непостоянной установки в объекты или экспонаты. Платформа поставляется без установленных выводов&#44; что позволяет пользователям применять собственные выводы и разъемы. Расположение выводов совместимо с платформой Arduino Mini.
+	Существует две версии платформы Pro Mini. Одна версия работает при напряжении 3.3 В и частоте 8 МГц&#44; другая при напряжения 5 В и частоте 16 МГц.
+	Arduino Pro Mini разработана и производится SparkFun Electronics.
+
+		Характеристики
+
+Микроконтроллер					ATmega168
+Рабочее напряжение				3.3 В или 5 В &#40;в 
+									зависимости от модели&#41;
+Входное напряжение				3.35-12 В &#40;модель 3.3 В&#41; 
+									или 5-12 В &#40;модель 5 В&#41;
+Цифровые Входы/Выходы			14 &#40;6 из которых могут 
+									использоваться как 
+									выходы ШИМ&#41;
+Аналоговые входы					6
+Постоянный ток через вход/выход	40 мА
+Флеш-память						16 Кб &#40;2 используются 
+									для загрузчика&#41;
+ОЗУ								1 Кб
+EEPROM							512 байт
+Тактовая частота					8 МГц &#40;модель 3.3 В&#41; или 									16 МГц &#40;модель 5 В&#41;
+
+		Питание
+
+	Arduino Pro Mini может получать питание: через кабель FTDI&#44; или от платы-конвертора&#44; или от регулируемого источника питания 3.3 В или 5 В &#40;зависит от модели платформы&#41; через вывод Vcc&#44; или от нерегулируемого источника через вывод RAW.
+
+		Выводы питания:
+
+    RAW. - Для подключения нерегулируемого напряжения.
+    VCC. - Для подключения регулируемых 3.3 В или 5 В.
+    GND. - Выводы заземления.
+
+		Память
+
+	Микроконтроллер ATmega168 имеет: 16 кБ флеш-памяти для хранения кода программы &#40;2 кБ используется для хранения загрузчика&#41;&#44; 1 кБ ОЗУ и 512 байт EEPROM .
+	
+		Входы и Выходы
+
+	Каждый из 14 цифровых выводов Pro&#44;  может настраиваться как вход или выход. Выводы работают при напряжении 3&#44;3 В. Каждый вывод имеет нагрузочный резистор &#40;стандартно отключен&#41; 20-50 кОм и может пропускать до 40 мА. 
+
+		Некоторые выводы имеют особые функции:
+
+    Последовательная шина: 0 &#40;RX&#41; и 1 &#40;TX&#41;. Выводы используются для получения &#40;RX&#41; и передачи &#40;TX&#41; данных TTL. Данные выводы имеют соединение с выводами TX-0 и RX-1 блока из шести выводов.
+    Внешнее прерывание: 2 и 3. Данные выводы могут быть сконфигурированы на вызов прерывания либо на младшем значении&#44; либо на переднем или заднем фронте&#44; или при изменении значения. 
+    ШИМ: 3&#44; 5&#44; 6&#44; 9&#44; 10&#44; и 11. Любой из выводов обеспечивает ШИМ с разрешением 8 бит.
+    SPI: 10 &#40;SS&#41;&#44; 11 &#40;MOSI&#41;&#44; 12 &#40;MISO&#41;&#44; 13 &#40;SCK&#41;. Посредством данных выводов осуществляется связь SPI&#44; которая&#44; хотя и поддерживается аппаратной частью&#44; не включена в язык Arduino.
+    LED: 13. Встроенный светодиод&#44; подключенный к цифровому выводу 13. Если значение на выводе имеет высокий потенциал&#44; то светодиод горит. 
+	На платформе Pro Mini установлены 6 аналоговых входов&#44; каждый разрешением 10 бит &#40;т.е. может принимать 1024 различных значения&#41;. Четыре из них расположены на краю платформы&#44; а другие два &#40;входы 4 и 5&#41; ближе к центру. Измерение происходит относительно земли до значения VCC.  
+	
+		Некоторые выводы имеют дополнительные функции:
+
+    I2C: 4 &#40;SDA&#41; и 5 &#40;SCL&#41;. Посредством выводов осуществляется связь I2C &#40;TWI&#41;.
+
+	Существует дополнительный вывод на платформе:
+
+    Reset. Низкий уровень сигнала на выводе перезагружает микроконтроллер. Обычно применяется для подключения кнопки перезагрузки на плате расширения&#44; закрывающей доступ к кнопке на самой плате Arduino.
+
+		Связь
+
+		На платформе Arduino Pro Mini установлено несколько устройств для осуществления связи с компьютером&#44; другими устройствами Arduino или микроконтроллерами.ATmega168 поддерживает последовательный интерфейс UART TTL&#44; осуществляемый выводами 0 &#40;RX&#41; и 1 &#40;TX&#41;. Мониторинг последовательной шины &#40;Serial Monitor&#41; программы Arduino позволяет посылать и получать текстовые данные через подключение USB.
+	ATmega168 поддерживает интерфейсы I2C &#40;TWI&#41; и SPI. Для использования интерфейса SPI обратитесь к техническим данным микроконтроллера ATmega168.
+
+		Программирование
+
+	Микроконтроллер ATmega168 поставляется с записанным загрузчиком&#44; облегчающим запись новых программ без использования внешних программаторов. Связь осуществляется оригинальным протоколом STK500.
+
+Имеется возможность не использовать загрузчик и запрограммировать ATmega168 с помощью внешнего программатора. 
+
+	Автоматическая &#40;программная&#41; перезагрузка
+
+Arduino Pro Mini разработана таким образом&#44; чтобы перед записью нового кода перезагрузка осуществлялась самой программой&#44; а не нажатием кнопки на платформе. Одна из выводов на блоке из шести выводов подключен к линии перезагрузки микроконтроллеров ATmega168 через резистор 100 нФ.  Данный вывод соединен с одной из линий управления потоком конвертора USB-to-serial&#44; подключенного к блоку: к линий RTS при использовании кабеля FTDI или к линии DTR при использовании платы-конвертора Sparkfun. Активация данной линии&#44; т.е. подача сигнала низкого уровня&#44; перезагружает микроконтроллер. Программа Arduino&#44; используя данную функцию&#44; загружает код одним нажатием кнопки Upload в самой среде программирования. Подача сигнала низкого уровня по линии перезагрузки скоординирована с началом записи кода&#44; что сокращает таймаут загрузчика.
+	Функция имеет еще одно применение. Перезагрузка Pro Mini происходит каждый раз при подключении к программе Arduino на компьютере с ОС Mac X или Linux &#40;через USB&#41;.  Следующие полсекунды после перезагрузки работает загрузчик. Во время программирования происходит задержка нескольких первых байтов кода во избежание получения платформой некорректных данных &#40;всех&#44; кроме кода новой программы&#41;. Если производится разовая отладка скетча&#44; записанного в платформу&#44; или ввод каких-либо других данных при первом запуске&#44; необходимо убедиться&#44; что программа на компьютере ожидает в течение секунды перед передачей данных.
+
+		Физические характеристики
+
+Габаритные размеры печатной платы Pro Mini составляют 1&#44;8х3&#44;3 см.</sixx.object>
+					<sixx.object sixx.id="221" sixx.name="runs" sixx.type="RunArray" sixx.env="Core" >
+						<sixx.object sixx.id="222" sixx.name="runs" sixx.type="Array" sixx.env="Core" >
+							<sixx.object sixx.id="223" sixx.type="SmallInteger" sixx.env="Core" >6180</sixx.object>
+						</sixx.object>
+						<sixx.object sixx.id="224" sixx.name="values" sixx.type="Array" sixx.env="Core" >
+							<sixx.object sixx.type="UndefinedObject" sixx.env="Core" />
+						</sixx.object>
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.id="225" sixx.name="images" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="226" sixx.type="ArduinoDescriptionImage" sixx.env="Arduino" >
+						<sixx.object sixx.id="227" sixx.name="previewImageName" sixx.type="String" sixx.env="Core" >1239b809-ccf5-4c3e-ac12-dd22bbd10faf.png</sixx.object>
+						<sixx.object sixx.id="228" sixx.name="fullImageName" sixx.type="String" sixx.env="Core" >c1648163-afbf-48eb-84b2-801fbffda36d.png</sixx.object>
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.name="comPortsCount" sixx.idref="19" />
+				<sixx.object sixx.id="229" sixx.name="iterupsAndPins" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="230" sixx.type="Association" sixx.env="Core" >
+						<sixx.object sixx.name="key" sixx.idref="26" />
+						<sixx.object sixx.name="value" sixx.idref="132" />
+					</sixx.object>
+					<sixx.object sixx.id="231" sixx.type="Association" sixx.env="Core" >
+						<sixx.object sixx.name="key" sixx.idref="19" />
+						<sixx.object sixx.name="value" sixx.idref="25" />
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.id="232" sixx.name="i2CDescriptor" sixx.type="I2CDescriptor" sixx.env="Arduino" >
+					<sixx.object sixx.id="233" sixx.name="sclPinType" sixx.type="String" sixx.env="Core" >A</sixx.object>
+					<sixx.object sixx.id="234" sixx.name="sdaPinType" sixx.type="String" sixx.env="Core" >A</sixx.object>
+					<sixx.object sixx.name="sclPinNumber" sixx.idref="133" />
+					<sixx.object sixx.name="sdaPinNumber" sixx.idref="188" />
+				</sixx.object>
+				<sixx.object sixx.id="235" sixx.name="spiDescriptor" sixx.type="SPIDescriptor" sixx.env="Arduino" >
+					<sixx.object sixx.name="pinSS" sixx.idref="198" />
+					<sixx.object sixx.name="pinMOSI" sixx.idref="200" />
+					<sixx.object sixx.name="pinMISO" sixx.idref="202" />
+					<sixx.object sixx.name="pinSCK" sixx.idref="204" />
+					<sixx.object sixx.name="notConnectToDigitalInput" sixx.type="False" sixx.env="Core" />
+				</sixx.object>
+				<sixx.object sixx.id="236" sixx.name="eepromSize" sixx.type="SmallInteger" sixx.env="Core" >1024</sixx.object>
+				<sixx.object sixx.id="237" sixx.name="selestString" sixx.type="String" sixx.env="Core" >uno</sixx.object>
+				<sixx.object sixx.id="238" sixx.name="board" sixx.type="String" sixx.env="Core" >pro</sixx.object>
+				<sixx.object sixx.id="239" sixx.name="controller" sixx.type="String" sixx.env="Core" >16MHzatmega328</sixx.object>
+				<sixx.object sixx.id="240" sixx.name="textEnInfo" sixx.type="String" sixx.env="Core" >General information
+
+Arduino Pro Mini microcontroller built on the ATmega168 &#40;Datasheet&#41;. The platform has 14 digital inputs and outputs &#40;of which 6 can be used as PWM outputs&#41;&#44; 6 analog inputs&#44; a resonator&#44; a reset button and holes for mounting pins. A block of six pins can connect to the FTDI cable or Board-Sparkfun Converter to provide power and communication via USB. 
+ Arduino Pro Mini is intended for non-permanent installation in objects or artefacts. The platform comes with no set of insights&#44; allowing users to apply their own findings and connectors. Pinout compatible with Arduino Mini.
+There are two versions of Pro Mini platform. One version operates at a voltage of 3.3 V and a frequency of 8 MHz&#44; the other at 5 V and a frequency of 16 MHz.
+Arduino Pro Mini is designed and produced by SparkFun Electronics.
+
+Features
+
+The ATmega168 Microcontroller
+Operating voltage 3.3 V or 5 V &#40;in 
+depending on the model&#41;
+Input voltage: 3.35-12V &#40;model 3.3 V&#41; 
+or 5-12 &#40;model 5&#41;
+Digital Inputs/Outputs 14 &#40;of which 6 can 
+be used as 
+PWM outputs&#41;
+Analog inputs 6
+DC current through input/output 40 mA
+The flash memory 16 KB &#40;2 used 
+for loader&#41;
+RAM 1 KB
+EEPROM 512 bytes
+Clock speed 8 MHz &#40;3.3 V model&#41; or 16 MHz &#40;model 5&#41;
+
+Food
+
+ Arduino Pro Mini can be powered through the FTDI cable or Board of the Converter&#44; or from a regulated power source of 3.3 V or 5 V &#40;depending on the model of the platform&#41; via the Vcc pin or an unregulated source through the output RAW.
+
+Power pins:
+
+RAW. For connection of the unregulated voltage.
+VCC. - Connect a regulated 3.3 V or 5 V.
+GND. The conclusions of the ground.
+
+Memory
+
+Microcontroller ATmega168 has 16 KB of flash memory for storing code &#40;with 2 KB used for storing the bootloader&#41;&#44; 1KB SRAM and 512 bytes of EEPROM .
+
+Inputs and Outputs
+
+ Each of the 14 digital pins Pro can be configured as input or output. Insights operate at voltage of 3.3 V. Each output has a load resistor &#40;default off&#41; 20-50 ohms and can handle up to 40 mA. 
+
+Some pins have special functions:
+
+Serial bus: 0 &#40;RX&#41; and 1 &#40;TX&#41;. Pins are used to receive &#40;RX&#41; and transmit &#40;TX&#41; TTL serial data. These findings have a connection with the conclusions of the TX-0 and RX-1 block of six insights.
+ External interrupt: 2 and 3. These pins can be configured for call interruption or the lower value&#44; either for front or rear front or when you change the value. 
+PWM: 3&#44; 5&#44; 6&#44; 9&#44; 10&#44; and 11. Any insights provides PWM resolution of 8 bits.
+SPI: 10 &#40;SS&#41;&#44; 11 &#40;MOSI&#41;&#44; 12 &#40;MISO&#41;&#44; 13 &#40;SCK&#41;. These pins support SPI communication&#44; which&#44; although provided by the underlying hardware&#44; is not included in the Arduino language.
+LED: 13. Built-in led connected to digital pin 13. If the value on the output is held high&#44; the led is illuminated. 
+ On the platform of the Pro Mini has 6 analog inputs each with 10 bits of resolution &#40;i.e. 1024 different values&#41;. Four of them are located on the edge of the platform&#44; and the other two &#40;inputs 4 and 5&#41; closer to the center. The measurement is relative to ground to a value of VCC. 
+
+Some pins have additional functions:
+
+I2C: 4 &#40;SDA&#41; and 5 &#40;SCL&#41;. By means of pins communicates I2C &#40;TWI&#41;.
+
+There is an additional pin on the platform:
+
+ Reset. The low level signal at pin resets the microcontroller. Typically used to connect the reset button on the expansion card&#44; closing access to the button on the Arduino Board.
+
+Link
+
+ The Arduino Pro Mini has a number of facilities for communicating with a computer&#44; another Arduino&#44; or other microcontrollers.The ATmega168 supports serial UART interface TTL undertaken by the pins 0 &#40;RX&#41; and 1 &#40;TX&#41;. Monitoring Serial Monitor of the Arduino program allows you to send and receive text data via the USB connection.
+The ATmega168 supports I2C &#40;TWI&#41; and SPI. To use the SPI interface please refer to technical data ATmega168 microcontroller.
+
+Programming
+
+ The ATmega168 microcontroller comes with a recorded loader&#44; facilitating the entry of new programs without using an external hardware programmer. Communication takes the original STK500 Protocol.
+
+You have the option not to use the bootloader and program the ATmega168 with an external programmer. 
+
+Automatic &#40;software&#41; reset
+
+Arduino Pro Mini is designed in such a way that the new code before recording a restart is performed by the program&#44; instead of pressing buttons on the platform. One of the findings at the block of six pins are connected to the line reboot the ATmega168 via a 100 nF resistor. This pin is connected to one of the lines control the flow of Converter USB-to-serial connected to the block: lines RTS when using an FTDI cable or DTR when using the tab-Converter Sparkfun. Activation of this line&#44; i.e. the signal of the low level&#44; resets the microcontroller. The Arduino software uses this capability to upload code by simply pressing the Upload button in the Arduino environment. Supply low-level signal to line reboot coordinated with the start of writing code that reduces the loader timeout.
+ The function has another use. Restart Pro Mini happens every time you connect to the Arduino program on a computer with Mac OS X or Linux &#40;via USB&#41;. Following half a second after the reboot bootloader works. During programming intercept the first few bytes of code to avoid incorrect data platform &#40;all except the code of the new program&#41;. If you are debugging one-off sketch recorded in the platform or entering any other data when you first start&#44; you must make sure that the computer waits for a second before transmitting the data.
+
+Physical characteristics
+
+The dimensions of the Pro Mini PCB are 1&#44;8x3&#44;3 cm.</sixx.object>
+				<sixx.object sixx.id="241" sixx.name="comports" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="242" sixx.type="ArduinoComPortDescriptor" sixx.env="Arduino" >
+						<sixx.object sixx.name="txPin" sixx.idref="19" />
+						<sixx.object sixx.name="number" sixx.idref="26" />
+						<sixx.object sixx.name="rxPin" sixx.idref="26" />
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.name="version" sixx.idref="132" />
+				<sixx.object sixx.name="canUseSoftwareSerial" sixx.type="True" sixx.env="Core" />
+				<sixx.object sixx.name="compilerNumber" sixx.idref="19" />
+			</sixx.object>
+			<sixx.object sixx.id="243" sixx.name="comPorts" sixx.type="Dictionary" sixx.env="Core" >
+				<sixx.object sixx.id="244" sixx.type="Association" sixx.env="Core" >
+					<sixx.object sixx.name="key" sixx.idref="26" />
+					<sixx.object sixx.id="245" sixx.name="value" sixx.type="SmallInteger" sixx.env="Core" >9600</sixx.object>
+				</sixx.object>
+			</sixx.object>
+			<sixx.object sixx.name="useWachDog" sixx.type="False" sixx.env="Core" />
+			<sixx.object sixx.id="246" sixx.name="whenWorkIsSkech" sixx.type="Symbol" sixx.env="Core" >arduinoIDE</sixx.object>
+			<sixx.object sixx.name="isCompileWhenCheck" sixx.type="False" sixx.env="Core" />
+			<sixx.object sixx.id="247" sixx.name="communucationRings" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+			<sixx.object sixx.name="startingValueInTheEEPROMCode" sixx.idref="206" />
+			<sixx.object sixx.id="248" sixx.name="eepromMemory" sixx.type="EEPROMMemory" sixx.env="Arduino" >
+				<sixx.object sixx.name="project" sixx.idref="2" />
+				<sixx.object sixx.id="249" sixx.name="chips" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="250" sixx.type="InternalEEPROMMemoryChip" sixx.env="Arduino" >
+						<sixx.object sixx.name="sizeInBytes" sixx.idref="236" />
+						<sixx.object sixx.id="251" sixx.name="id" sixx.type="SmallInteger" sixx.env="Core" >134495782</sixx.object>
+						<sixx.object sixx.name="isUsed" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+				</sixx.object>
+			</sixx.object>
+		</sixx.object>
+	</sixx.object>
+	<sixx.object sixx.name="programmVersionNamberFirstPart" sixx.idref="25" />
+	<sixx.object sixx.name="programmVersionNamberSecondPart" sixx.idref="26" />
+	<sixx.object sixx.name="programmVersionNambeLastPart" sixx.idref="25" />
+</sixx.object>

@@ -1,0 +1,421 @@
+<sixx.object sixx.id="0" sixx.type="MultiProject" sixx.env="Arduino" >
+	<sixx.object sixx.id="1" sixx.name="projects" sixx.type="OrderedCollection" sixx.env="Core" >
+		<sixx.object sixx.id="2" sixx.type="Project" sixx.env="Arduino" >
+			<sixx.object sixx.id="3" sixx.name="positionStore" sixx.type="ProjectPositionStore" sixx.env="Arduino" >
+				<sixx.object sixx.id="4" sixx.name="projectTreeExpandElements" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+				<sixx.object sixx.id="5" sixx.name="projectTreeScroolPosition" sixx.type="Point" sixx.env="Core" >0@0</sixx.object>
+				<sixx.object sixx.id="6" sixx.name="basicLibraryExpandElements" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+				<sixx.object sixx.id="7" sixx.name="basicLibraryScroolPosition" sixx.type="Point" sixx.env="Core" >0@0</sixx.object>
+				<sixx.object sixx.name="isCollapseProjectTree" sixx.type="False" sixx.env="Core" />
+				<sixx.object sixx.id="8" sixx.name="projectTreeWidth" sixx.type="SmallInteger" sixx.env="Core" >355</sixx.object>
+				<sixx.object sixx.id="9" sixx.name="schemeScroolPosition" sixx.type="Point" sixx.env="Core" >0@0</sixx.object>
+				<sixx.object sixx.name="isCollapseTagTable" sixx.type="False" sixx.env="Core" />
+				<sixx.object sixx.id="10" sixx.name="projectVariablesSubcanvasHeight" sixx.type="SmallInteger" sixx.env="Core" >298</sixx.object>
+				<sixx.object sixx.name="isCollapseLibraryWidget" sixx.type="False" sixx.env="Core" />
+				<sixx.object sixx.id="11" sixx.name="projectBlockLibrarySubcanvasWidth" sixx.type="SmallInteger" sixx.env="Core" >468</sixx.object>
+				<sixx.object sixx.id="12" sixx.name="tagTableScroolPosition" sixx.type="Point" sixx.env="Core" >0@0</sixx.object>
+				<sixx.object sixx.id="13" sixx.name="tagsTableExpandElements" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+				<sixx.object sixx.id="14" sixx.name="selectedLibraryIndex" sixx.type="SmallInteger" sixx.env="Core" >1</sixx.object>
+			</sixx.object>
+			<sixx.object sixx.id="15" sixx.name="settings" sixx.type="ProjectSettings" sixx.env="Arduino" >
+				<sixx.object sixx.name="useExternalReferenceVoltage" sixx.type="False" sixx.env="Core" />
+			</sixx.object>
+			<sixx.object sixx.id="16" sixx.name="programmVersionNambeLastPart" sixx.type="SmallInteger" sixx.env="Core" >3</sixx.object>
+			<sixx.object sixx.name="programmVersionNamberFirstPart" sixx.idref="16" />
+			<sixx.object sixx.id="17" sixx.name="programmVersionNamberSecondPart" sixx.type="SmallInteger" sixx.env="Core" >0</sixx.object>
+			<sixx.object sixx.id="18" sixx.name="programm" sixx.type="FBDProgramm" sixx.env="Arduino" >
+				<sixx.object sixx.id="19" sixx.name="networks" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="20" sixx.type="FBDNetWork" sixx.env="Arduino" >
+						<sixx.object sixx.id="21" sixx.name="label" sixx.type="NetworkLabel" sixx.env="Arduino" >
+							<sixx.object sixx.id="22" sixx.name="comment" sixx.type="String" sixx.env="Core" ></sixx.object>
+							<sixx.object sixx.id="23" sixx.name="name" sixx.type="String" sixx.env="Core" ></sixx.object>
+							<sixx.object sixx.name="isCollapse" sixx.type="False" sixx.env="Core" />
+							<sixx.object sixx.name="isNotCompile" sixx.type="False" sixx.env="Core" />
+							<sixx.object sixx.name="isFulfillmentOfTheCondition" sixx.type="False" sixx.env="Core" />
+							<sixx.object sixx.name="isRunInALoop" sixx.type="False" sixx.env="Core" />
+						</sixx.object>
+						<sixx.object sixx.id="24" sixx.name="blocks" sixx.type="OrderedCollection" sixx.env="Core" >
+							<sixx.object sixx.id="25" sixx.type="FBDWebServerPage" sixx.env="Arduino" >
+								<sixx.object sixx.id="26" sixx.name="inseptPoint" sixx.type="Point" sixx.env="Core" >210@30</sixx.object>
+								<sixx.object sixx.id="27" sixx.name="bodyRectangle" sixx.type="Rectangle" sixx.env="Graphics" >240@30 corner: 330@60</sixx.object>
+								<sixx.object sixx.id="28" sixx.name="rectangle" sixx.type="Rectangle" sixx.env="Graphics" >210@30 corner: 360@60</sixx.object>
+								<sixx.object sixx.id="29" sixx.name="labelPaintPoint" sixx.type="Point" sixx.env="Core" >261.0d@49.5d</sixx.object>
+								<sixx.object sixx.name="bitNumber" sixx.idref="14" />
+								<sixx.object sixx.id="30" sixx.name="type" sixx.type="WebServerPageBlockType" sixx.env="Arduino" >
+								</sixx.object>
+								<sixx.object sixx.id="31" sixx.name="comment" sixx.type="String" sixx.env="Core" ></sixx.object>
+								<sixx.object sixx.id="32" sixx.name="connectionDevice" sixx.type="ESP8266WiFiModule" sixx.env="Arduino" >
+									<sixx.object sixx.id="33" sixx.name="comment" sixx.type="String" sixx.env="Core" ></sixx.object>
+									<sixx.object sixx.id="34" sixx.name="ipAddres" sixx.type="OrderedCollection" sixx.env="Core" >
+										<sixx.object sixx.id="35" sixx.type="String" sixx.env="Core" >192</sixx.object>
+										<sixx.object sixx.id="36" sixx.type="String" sixx.env="Core" >168</sixx.object>
+										<sixx.object sixx.id="37" sixx.type="String" sixx.env="Core" >1</sixx.object>
+										<sixx.object sixx.id="38" sixx.type="String" sixx.env="Core" >1</sixx.object>
+									</sixx.object>
+									<sixx.object sixx.id="39" sixx.name="tspServerPort" sixx.type="String" sixx.env="Core" >80</sixx.object>
+									<sixx.object sixx.id="40" sixx.name="ssid" sixx.type="String" sixx.env="Core" >OpenWrtKB</sixx.object>
+									<sixx.object sixx.id="41" sixx.name="password" sixx.type="String" sixx.env="Core" >margo1968</sixx.object>
+								</sixx.object>
+								<sixx.object sixx.id="42" sixx.name="inputAdaptors" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+								<sixx.object sixx.id="43" sixx.name="adresses" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+								<sixx.object sixx.name="isUpdatePage" sixx.type="False" sixx.env="Core" />
+								<sixx.object sixx.id="44" sixx.name="updateTime" sixx.type="SmallInteger" sixx.env="Core" >5</sixx.object>
+								<sixx.object sixx.id="45" sixx.name="body" sixx.type="String" sixx.env="Core" ></sixx.object>
+							</sixx.object>
+						</sixx.object>
+						<sixx.object sixx.id="46" sixx.name="height" sixx.type="SmallInteger" sixx.env="Core" >240</sixx.object>
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.name="project" sixx.idref="2" />
+				<sixx.object sixx.id="47" sixx.name="networksAndIntervals" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="48" sixx.type="Association" sixx.env="Core" >
+						<sixx.object sixx.name="key" sixx.idref="20" />
+						<sixx.object sixx.id="49" sixx.name="value" sixx.type="Interval" sixx.env="Core" >(0 to: 240)</sixx.object>
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.id="50" sixx.name="variables" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+			</sixx.object>
+			<sixx.object sixx.id="51" sixx.name="inputs" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+			<sixx.object sixx.id="52" sixx.name="outputs" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+			<sixx.object sixx.id="53" sixx.name="globalVariable" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+			<sixx.object sixx.name="isFBD" sixx.type="True" sixx.env="Core" />
+			<sixx.object sixx.id="54" sixx.name="controllerDescription" sixx.type="ArduinoDescriptor" sixx.env="Arduino" >
+				<sixx.object sixx.id="55" sixx.name="name" sixx.type="String" sixx.env="Core" >Arduino Nano&#40;ATmega328&#41;</sixx.object>
+				<sixx.object sixx.id="56" sixx.name="pins" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="57" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="17" />
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="False" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="58" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="14" />
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="False" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="59" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="60" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >2</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="61" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="16" />
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="62" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="63" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >4</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="64" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="44" />
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="65" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="66" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >6</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="67" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="68" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >7</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="69" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="70" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >8</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="71" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="72" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >9</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="73" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="74" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >10</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="75" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="76" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >11</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="77" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="78" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >12</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="79" sixx.type="ArduinoDigitalInputOutputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.id="80" sixx.name="number" sixx.type="SmallInteger" sixx.env="Core" >13</sixx.object>
+						<sixx.object sixx.name="isShim" sixx.type="False" sixx.env="Core" />
+						<sixx.object sixx.name="isUseAsRxSoftwareSerial" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+					<sixx.object sixx.id="81" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="17" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="82" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >14</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="83" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="14" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="84" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >15</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="85" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="60" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="86" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >16</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="87" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="16" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="88" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >17</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="89" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="63" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="90" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >18</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="91" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="44" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="92" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >19</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="93" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="66" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="94" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >20</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="95" sixx.type="ArduinoAnalogInputDescription" sixx.env="Arduino" >
+						<sixx.object sixx.name="number" sixx.idref="68" />
+						<sixx.object sixx.name="canUseAsDigital" sixx.type="True" sixx.env="Core" />
+						<sixx.object sixx.id="96" sixx.name="numberAsDigital" sixx.type="SmallInteger" sixx.env="Core" >21</sixx.object>
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.id="97" sixx.name="textInfo" sixx.type="Text" sixx.env="Core" >
+					<sixx.object sixx.id="98" sixx.name="string" sixx.type="String" sixx.env="Core" > 		Общие сведения
+
+	Платформа Nano&#44; построенная на микроконтроллере ATmega328 &#40;Arduino Nano 3.0&#41; &#44; имеет небольшие размеры и может использоваться в лабораторных работах. Она имеет схожую с Arduino Duemilanove функциональность&#44; однако отличается сборкой. Отличие заключается в отсутствии силового разъема постоянного тока и работе через кабель Mini-B USB. Nano разработана и продается компанией Gravitech.
+
+		Краткие характеристики
+Микроконтроллер	 						Atmel       
+                                                                  ATmega328																
+Рабочее напряжение &#40;логическая уровень&#41;	5 В
+Входное напряжение &#40;рекомендуемое&#41; 		7-12 В
+Входное напряжение &#40;предельное&#41; 			6-20 В
+Цифровые Входы/Выходы					14 &#40;6 из которых 
+											могут 
+											использоваться 
+											как выходы 
+											ШИМ&#41;
+Аналоговые входы							8
+Постоянный ток через вход/выход			40 мА
+Флеш-память	                                          32 Кб												
+                                                                  при	этом 2 Кб 
+											используются 
+											для загрузчика
+ОЗУ										2 Кб 											
+EEPROM									1 Кб 											
+Тактовая частота							16 МГц
+Размеры									1.85 см x 4.2 см
+
+		Питание:
+
+	Arduino Nano может получать питание через подключение Mini-B USB&#44; или от нерегулируемого 6-20 В &#40;вывод 30&#41;&#44; или регулируемого 5 В &#40;вывод 27&#41;&#44; внешнего источника питания. Автоматически выбирается источник с самым высоким напряжением.
+	Микросхема FTDI FT232RL получает питание&#44; только если сама платформа запитана от USB. Таким образом при работе от внешнего источника &#40;не USB&#41;&#44; будет отсутствовать напряжение 3.3 В&#44; генерируемое микросхемой FTDI&#44; при этом светодиоды RX и TX мигаю только при наличие сигнала высокого уровня на выводах 0 и 1.
+
+		Память
+
+Микроконтроллер  имеет 32 кБ &#40;при этом 2 кБ используется для хранения загрузчика&#41;.  а ATmega328 имеет 2 кБ ОЗУ и 1 Кб EEPROM.
+
+			Входы и Выходы
+
+	Каждый из 14 цифровых выводов Nano&#44; может настраиваться как вход или выход. Выводы работают при напряжении 5 В. Каждый вывод имеет нагрузочный резистор &#40;стандартно отключен&#41; 20-50 кОм и может пропускать до 40 мА.
+		
+		Некоторые выводы имеют особые функции:
+
+    Последовательная шина: 0 &#40;RX&#41; и 1 &#40;TX&#41;. Выводы используются для получения &#40;RX&#41; и передачи &#40;TX&#41; данных TTL. Данные выводы подключены к соответствующим выводам микросхемы последовательной шины FTDI USB-to-TTL.
+    Внешнее прерывание: 2 и 3. Данные выводы могут быть сконфигурированы на вызов прерывания либо на младшем значении&#44; либо на переднем или заднем фронте&#44; или при изменении значения. 
+    ШИМ: 3&#44; 5&#44; 6&#44; 9&#44; 10&#44; и 11. Любой из выводов обеспечивает ШИМ с разрешением 8 бит.
+    SPI: 10 &#40;SS&#41;&#44; 11 &#40;MOSI&#41;&#44; 12 &#40;MISO&#41;&#44; 13 &#40;SCK&#41;. Посредством данных выводов осуществляется связь SPI&#44; которая&#44; хотя и поддерживается аппаратной частью&#44; не включена в язык Arduino.
+    LED: 13. Встроенный светодиод&#44; подключенный к цифровому выводу 13. Если значение на выводе имеет высокий потенциал&#44; то светодиод горит. 
+	На платформе Nano установлены 8 аналоговых входов&#44; каждый разрешением 10 бит &#40;т.е. может принимать 1024 различных значения&#41;. Стандартно выводы имеют диапазон измерения до 5 В.
+	
+		Некоторые выводы имеют дополнительные функции:
+
+    I2C: 4 &#40;SDA&#41; и 5 &#40;SCL&#41;. Посредством выводов осуществляется связь I2C &#40;TWI&#41;. 
+
+		Дополнительная пара выводов платформы:
+
+    AREF. Опорное напряжение для аналоговых входов. 
+    Reset. Низкий уровень сигнала на выводе перезагружает микроконтроллер. Обычно применяется для подключения кнопки перезагрузки на плате расширения&#44; закрывающей доступ к кнопке на самой плате Arduino.
+	
+		Связь
+
+	На платформе Arduino Nano установлено несколько устройств для осуществления связи с компьютером&#44; другими устройствами Arduino или микроконтроллерами.  Поддерживается последовательный интерфейс UART TTL &#40;5 В&#41;&#44; осуществляемый выводами 0 &#40;RX&#41; и 1 &#40;TX&#41;. Установленная на плате микросхема FTDI FT232RL направляет данный интерфейс через USB&#44; а драйверы FTDI &#40;включены в программу Arduino&#41; предоставляют виртуальный COM порт программе на компьютере. Мониторинг последовательной шины &#40;Serial Monitor&#41; программы Arduino позволяет посылать и получать текстовые данные при подключении к платформе. Светодиоды RX и TX на платформе будут мигать при передаче данных через микросхему FTDI или USB подключение &#40;но не при использовании последовательной передачи через выводы 0 и 1&#41;. 
+	Так же поддерживается интерфейсы I2C &#40;TWI&#41; и SPI. 
+
+ 		Программирование
+
+	Микроконтроллер поставляется с записанным загрузчиком&#44; облегчающим запись новых программ без использования внешних программаторов. Связь осуществляется оригинальным протоколом STK500.
+	Имеется возможность не использовать загрузчик и запрограммировать микроконтроллер через выводы блока ICSP &#40;внутрисхемное программирование&#41;.
+	Nano разработана таким образом&#44; чтобы перед записью нового кода перезагрузка осуществлялась самой программой&#44; а не нажатием кнопки на платформе. Одна из линий FT232RL&#44; управляющих потоком данных &#40;DTR&#41;&#44; подключена к выводу перезагрузки микроконтроллера через конденсатор 100 нФ. Активация данной линии&#44; т.е. подача сигнала низкого уровня&#44; перезагружает микроконтроллер. Программа Arduino&#44; используя данную функцию&#44; загружает код одним нажатием кнопки Upload в самой среде программирования. 	Подача сигнала низкого уровня по линии DTR скоординирована с началом записи кода&#44; что сокращает таймаут загрузчика.
+	Функция имеет еще одно применение. Перезагрузка Nano происходит каждый раз при подключении к программе Arduino на компьютере с ОС Mac X или Linux &#40;через USB&#41;. Следующие полсекунды после перезагрузки работает загрузчик. Во время программирования происходит задержка нескольких первых байтов кода во избежание получения платформой некорректных данных &#40;всех&#44; кроме кода новой программы&#41;. Если производится разовая отладка скетча&#44; записанного в платформу&#44; или ввод каких-либо других данных при первом запуске&#44; необходимо убедиться&#44; что программа на компьютере ожидает в течение секунды перед передачей данных.</sixx.object>
+					<sixx.object sixx.id="99" sixx.name="runs" sixx.type="RunArray" sixx.env="Core" >
+						<sixx.object sixx.id="100" sixx.name="runs" sixx.type="Array" sixx.env="Core" >
+							<sixx.object sixx.id="101" sixx.type="SmallInteger" sixx.env="Core" >5987</sixx.object>
+						</sixx.object>
+						<sixx.object sixx.id="102" sixx.name="values" sixx.type="Array" sixx.env="Core" >
+							<sixx.object sixx.type="UndefinedObject" sixx.env="Core" />
+						</sixx.object>
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.id="103" sixx.name="images" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="104" sixx.type="ArduinoDescriptionImage" sixx.env="Arduino" >
+						<sixx.object sixx.id="105" sixx.name="previewImageName" sixx.type="String" sixx.env="Core" >8ecf9a2f-f41c-4e81-835e-09a956e854c2.png</sixx.object>
+						<sixx.object sixx.id="106" sixx.name="fullImageName" sixx.type="String" sixx.env="Core" >adbdc502-bec7-43da-9b6d-6738b31805f0.png</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="107" sixx.type="ArduinoDescriptionImage" sixx.env="Arduino" >
+						<sixx.object sixx.id="108" sixx.name="previewImageName" sixx.type="String" sixx.env="Core" >221e004a-f686-4bdd-b569-6a88c20c6917.png</sixx.object>
+						<sixx.object sixx.id="109" sixx.name="fullImageName" sixx.type="String" sixx.env="Core" >bffd5b5c-69d2-48d6-aa71-d8a4e2821056.png</sixx.object>
+					</sixx.object>
+					<sixx.object sixx.id="110" sixx.type="ArduinoDescriptionImage" sixx.env="Arduino" >
+						<sixx.object sixx.id="111" sixx.name="previewImageName" sixx.type="String" sixx.env="Core" >f3d4a9ae-169d-498f-a561-eb3283868a72.png</sixx.object>
+						<sixx.object sixx.id="112" sixx.name="fullImageName" sixx.type="String" sixx.env="Core" >ba158aa0-6b15-414e-a928-8b20ff482b39.png</sixx.object>
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.name="comPortsCount" sixx.idref="14" />
+				<sixx.object sixx.id="113" sixx.name="iterupsAndPins" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="114" sixx.type="Association" sixx.env="Core" >
+						<sixx.object sixx.name="key" sixx.idref="17" />
+						<sixx.object sixx.name="value" sixx.idref="60" />
+					</sixx.object>
+					<sixx.object sixx.id="115" sixx.type="Association" sixx.env="Core" >
+						<sixx.object sixx.name="key" sixx.idref="14" />
+						<sixx.object sixx.name="value" sixx.idref="16" />
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.id="116" sixx.name="i2CDescriptor" sixx.type="I2CDescriptor" sixx.env="Arduino" >
+					<sixx.object sixx.id="117" sixx.name="sclPinType" sixx.type="String" sixx.env="Core" >A</sixx.object>
+					<sixx.object sixx.id="118" sixx.name="sdaPinType" sixx.type="String" sixx.env="Core" >A</sixx.object>
+					<sixx.object sixx.name="sclPinNumber" sixx.idref="44" />
+					<sixx.object sixx.name="sdaPinNumber" sixx.idref="63" />
+				</sixx.object>
+				<sixx.object sixx.id="119" sixx.name="spiDescriptor" sixx.type="SPIDescriptor" sixx.env="Arduino" >
+					<sixx.object sixx.name="pinSS" sixx.idref="74" />
+					<sixx.object sixx.name="pinMOSI" sixx.idref="76" />
+					<sixx.object sixx.name="pinMISO" sixx.idref="78" />
+					<sixx.object sixx.name="pinSCK" sixx.idref="80" />
+					<sixx.object sixx.name="notConnectToDigitalInput" sixx.type="False" sixx.env="Core" />
+				</sixx.object>
+				<sixx.object sixx.id="120" sixx.name="eepromSize" sixx.type="SmallInteger" sixx.env="Core" >1024</sixx.object>
+				<sixx.object sixx.id="121" sixx.name="selestString" sixx.type="String" sixx.env="Core" >uno</sixx.object>
+				<sixx.object sixx.id="122" sixx.name="board" sixx.type="String" sixx.env="Core" >nano</sixx.object>
+				<sixx.object sixx.id="123" sixx.name="controller" sixx.type="String" sixx.env="Core" >atmega328</sixx.object>
+				<sixx.object sixx.id="124" sixx.name="textEnInfo" sixx.type="String" sixx.env="Core" >General information
+
+The Nano platform&#44; built on the microcontroller ATmega328 &#40;Arduino Nano 3.0&#41; &#44; is small in size and can be used in laboratory works. It has similar functionality to the Arduino Duemilanove&#44; but in a different package. The difference lies in the absence of a power connector and DC operation via cable Mini-B USB. Nano developed and sold by the company Gravitech.
+
+A brief description
+Microcontroller Atmel 
+ATmega328 
+Operating voltage &#40;logic level&#41; 5 V
+Input voltage &#40;recommended&#41; 7-12 V
+Input voltage &#40;limits&#41; 6-20 In
+Digital Inputs/Outputs 14 &#40;of which 6 
+can 
+be used 
+as outputs 
+PWM&#41;
+Analog inputs 8
+DC current through input/output 40 mA
+Flash memory 32 KB 
+in this case&#44; 2 KB 
+used 
+for loader
+RAM 2 KB 
+EEPROM 1 KB 
+Clock speed 16 MHz
+Dimensions 1.85 cm x 4.2 cm
+
+Food:
+
+The Arduino Nano can be powered via connection Mini-B USB&#44; or from an unregulated 6 to 20 In &#40;pin 30&#41;&#44; or the regulated 5 V &#40;pin 27&#41;&#44; an external power source. Automatically selects the source with the highest voltage.
+The FTDI FT232RL chip receives power only if the platform itself is powered by USB. Thus&#44; when working from an external source &#40;not USB&#41;&#44; there will be no voltage of 3.3 V generated by the FTDI chip&#44; while the RX and TX LEDs blink only when the presence of a high signal on pins 0 and 1.
+
+Memory
+
+The microcontroller has 32 KB &#40;2 KB used to store the boot loader&#41;. but the ATmega328 has 2 KB of SRAM and 1 KB EEPROM.
+
+Inputs and Outputs
+
+Each of the 14 digital pins Nano can be configured as input or output. Insights operate at a voltage of 5 V. Each output has a load resistor &#40;default off&#41; 20-50 ohms and can handle up to 40 mA.
+
+Some pins have special functions:
+
+ Serial bus: 0 &#40;RX&#41; and 1 &#40;TX&#41;. Pins are used to receive &#40;RX&#41; and transmit &#40;TX&#41; TTL serial data. These pins are connected to corresponding pins of the chip serial bus FTDI USB-to-TTL.
+External interrupt: 2 and 3. These pins can be configured for call interruption or the lower value&#44; either for front or rear front or when you change the value. 
+PWM: 3&#44; 5&#44; 6&#44; 9&#44; 10&#44; and 11. Any insights provides PWM resolution of 8 bits.
+ SPI: 10 &#40;SS&#41;&#44; 11 &#40;MOSI&#41;&#44; 12 &#40;MISO&#41;&#44; 13 &#40;SCK&#41;. These pins support SPI communication&#44; which&#44; although provided by the underlying hardware&#44; is not included in the Arduino language.
+LED: 13. Built-in led connected to digital pin 13. If the value on the output is held high&#44; the led is illuminated. 
+Platform Nano has 8 analog inputs each with 10 bits of resolution &#40;i.e. 1024 different values&#41;. Standard conclusions are the measurement range to 5 V.
+
+Some pins have additional functions:
+
+ I2C: 4 &#40;SDA&#41; and 5 &#40;SCL&#41;. By means of pins communicates I2C &#40;TWI&#41;. 
+
+An additional pair of pins on the Board:
+
+AREF. The reference voltage for the analog inputs. 
+Reset. The low level signal at pin resets the microcontroller. Typically used to connect the reset button on the expansion card&#44; closing access to the button on the Arduino Board.
+
+Link
+
+ The Arduino Nano has a number of facilities for communicating with a computer&#44; another Arduino&#44; or other microcontrollers. Supported serial interface UART TTL &#40;5V&#41; by the pins 0 &#40;RX&#41; and 1 &#40;TX&#41;. Mounted on Board FTDI FT232RL directs the interface via USB and the FTDI drivers &#40;included with the Arduino software&#41; provide a virtual COM port to software on the computer. Monitoring Serial Monitor of the Arduino program allows you to send and receive text data when you connect to the platform. The RX and TX LEDs on the Board will flash when data transfer via the FTDI chip and USB connection &#40;but not for serial communication via pins 0 and 1&#41;. 
+It also supports I2C &#40;TWI&#41; and SPI. 
+
+Programming
+
+The microcontroller comes with a recorded loader&#44; facilitating the entry of new programs without using an external hardware programmer. Communication takes the original STK500 Protocol.
+You have the option not to use the bootloader and program the microcontroller via pins of the ICSP header &#40;in-circuit programming&#41;.
+ Nano is designed in such a way that the new code before recording a restart is performed by the program&#44; instead of pressing buttons on the platform. One of the lines of the FT232RL that control the data flow &#40;DTR&#41;&#44; connected to the output of the restart of the microcontroller via a 100 nF capacitor. Activation of this line&#44; i.e. the signal of the low level&#44; resets the microcontroller. The Arduino software uses this capability to upload code by simply pressing the Upload button in the Arduino environment. Supply low-level signal at the DTR coordinated with the beginning of writing code that reduces the loader timeout.
+ The function has another use. Reboot Nano happens every time you connect to the Arduino program on a computer with Mac OS X or Linux &#40;via USB&#41;. Following half a second after the reboot bootloader works. During programming intercept the first few bytes of code to avoid incorrect data platform &#40;all except the code of the new program&#41;. If you are debugging one-off sketch recorded in the platform or entering any other data when you first start&#44; you must make sure that the computer waits for a second before transmitting the data.</sixx.object>
+				<sixx.object sixx.id="125" sixx.name="comports" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="126" sixx.type="ArduinoComPortDescriptor" sixx.env="Arduino" >
+						<sixx.object sixx.name="txPin" sixx.idref="14" />
+						<sixx.object sixx.name="number" sixx.idref="17" />
+						<sixx.object sixx.name="rxPin" sixx.idref="17" />
+					</sixx.object>
+				</sixx.object>
+				<sixx.object sixx.name="version" sixx.idref="60" />
+				<sixx.object sixx.name="canUseSoftwareSerial" sixx.type="True" sixx.env="Core" />
+				<sixx.object sixx.name="compilerNumber" sixx.idref="14" />
+			</sixx.object>
+			<sixx.object sixx.id="127" sixx.name="comPorts" sixx.type="Dictionary" sixx.env="Core" >
+				<sixx.object sixx.id="128" sixx.type="Association" sixx.env="Core" >
+					<sixx.object sixx.name="key" sixx.idref="17" />
+					<sixx.object sixx.id="129" sixx.name="value" sixx.type="SmallInteger" sixx.env="Core" >9600</sixx.object>
+				</sixx.object>
+			</sixx.object>
+			<sixx.object sixx.name="useWachDog" sixx.type="False" sixx.env="Core" />
+			<sixx.object sixx.id="130" sixx.name="whenWorkIsSkech" sixx.type="Symbol" sixx.env="Core" >arduinoIDE</sixx.object>
+			<sixx.object sixx.name="isCompileWhenCheck" sixx.type="False" sixx.env="Core" />
+			<sixx.object sixx.id="131" sixx.name="communucationRings" sixx.type="OrderedCollection" sixx.env="Core" ></sixx.object>
+			<sixx.object sixx.id="132" sixx.name="startingValueInTheEEPROMCode" sixx.type="SmallInteger" sixx.env="Core" >115</sixx.object>
+			<sixx.object sixx.id="133" sixx.name="eepromMemory" sixx.type="EEPROMMemory" sixx.env="Arduino" >
+				<sixx.object sixx.name="project" sixx.idref="2" />
+				<sixx.object sixx.id="134" sixx.name="chips" sixx.type="OrderedCollection" sixx.env="Core" >
+					<sixx.object sixx.id="135" sixx.type="InternalEEPROMMemoryChip" sixx.env="Arduino" >
+						<sixx.object sixx.name="sizeInBytes" sixx.idref="120" />
+						<sixx.object sixx.id="136" sixx.name="id" sixx.type="SmallInteger" sixx.env="Core" >95611938</sixx.object>
+						<sixx.object sixx.name="isUsed" sixx.type="True" sixx.env="Core" />
+					</sixx.object>
+				</sixx.object>
+			</sixx.object>
+		</sixx.object>
+	</sixx.object>
+	<sixx.object sixx.name="programmVersionNamberFirstPart" sixx.idref="16" />
+	<sixx.object sixx.name="programmVersionNamberSecondPart" sixx.idref="17" />
+	<sixx.object sixx.name="programmVersionNambeLastPart" sixx.idref="16" />
+</sixx.object>
